@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi there we are good to go
+          I was changed on the feater branvche
         </p>
         <a
           className="App-link"
